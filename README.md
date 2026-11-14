@@ -77,29 +77,23 @@ Solution     Details / Support
 ## Application Screenshots
 
 ### 1. SmartSupport AI – Home Page
-<!-- Upload your application home page screenshot here -->
+<img width="1825" height="655" alt="image" src="https://github.com/user-attachments/assets/6ba1671d-957e-4fbe-847e-ceca834a7481" />
 
-![SmartSupport AI Home Page](screenshots/home-page.png)
 
 ### 2. Complaint Classification
-<!-- Upload a screenshot showing complaint input and predicted category here -->
+<img width="1492" height="830" alt="image" src="https://github.com/user-attachments/assets/436bbd46-91ba-4508-869d-968467f5be0f" />
 
-![Complaint Classification](screenshots/complaint-classification.png)
+
 
 ### 3. Recommendation System
-<!-- Upload a screenshot showing the predicted category and suggested solution here -->
+<img width="1492" height="830" alt="image" src="https://github.com/user-attachments/assets/7af420a5-7a42-4da5-bd13-a805dfb71374" />
+
 
 ![Smart Recommendations](screenshots/recommendations.png)
 
 ### 4. Dataset Dashboard
-<!-- Upload your dashboard screenshot showing complaint statistics and category distribution here -->
+<img width="1848" height="836" alt="image" src="https://github.com/user-attachments/assets/9b0e59b6-2a69-4e06-8113-5760b91a39a0" />
 
-![Dataset Dashboard](screenshots/dashboard.png)
-
-### 5. Model Evaluation
-<!-- Upload your model evaluation results or classification report here -->
-
-![Model Evaluation](screenshots/model-evaluation.png)
 
 ## Machine Learning Workflow
 
