@@ -1,0 +1,21 @@
+complaint,category
+"My internet is very slow",Network
+"My WiFi is disconnecting",Network
+"Mobile data is not working",Network
+"Internet connection is unavailable",Network
+"My bill amount is incorrect",Billing
+"I was charged twice",Billing
+"My payment failed",Billing
+"I need a refund",Billing
+"I forgot my password",Account
+"My account is locked",Account
+"I cannot log in",Account
+"I want to change my email",Account
+"The application crashes",Technical
+"The website shows an error",Technical
+"The app is not responding",Technical
+"I cannot upload documents",Technical
+"My order is delayed",Order
+"I received the wrong product",Order
+"My package is damaged",Order
+"I want to cancel my order",Order

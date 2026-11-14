@@ -1,0 +1,35 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Raw and intermediate datasets
+dataset/bitext_support.csv
+dataset/complaints_external.csv
+dataset/complaints_combined.csv
+dataset/complaints_prepared.csv
+dataset/it_support_train.parquet
+dataset/it_support_selected.csv
+dataset/it_support_english.csv
+
+# Keep the final dataset required by the app
+!dataset/final_complaints.csv
+dataset/final_complaints.csv
