@@ -74,6 +74,32 @@ Solution     Details / Support
         v
    Streamlit UI
 ```
+## Application Screenshots
+
+### 1. SmartSupport AI – Home Page
+<!-- Upload your application home page screenshot here -->
+
+![SmartSupport AI Home Page](screenshots/home-page.png)
+
+### 2. Complaint Classification
+<!-- Upload a screenshot showing complaint input and predicted category here -->
+
+![Complaint Classification](screenshots/complaint-classification.png)
+
+### 3. Recommendation System
+<!-- Upload a screenshot showing the predicted category and suggested solution here -->
+
+![Smart Recommendations](screenshots/recommendations.png)
+
+### 4. Dataset Dashboard
+<!-- Upload your dashboard screenshot showing complaint statistics and category distribution here -->
+
+![Dataset Dashboard](screenshots/dashboard.png)
+
+### 5. Model Evaluation
+<!-- Upload your model evaluation results or classification report here -->
+
+![Model Evaluation](screenshots/model-evaluation.png)
 
 ## Machine Learning Workflow
 
